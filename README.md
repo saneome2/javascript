@@ -1,4 +1,4 @@
-# OK JavaScript Style Guide() {
+# Facebook JavaScript Style Guide() {
 
 *A mostly reasonable approach to JavaScript*
 
