@@ -1,4 +1,4 @@
-# Xaneo JavaScript Style Guide() {
+# MAX JavaScript Style Guide() {
 
 *A mostly reasonable approach to JavaScript*
 
