@@ -1,4 +1,4 @@
-# MAX JavaScript Style Guide() {
+# Telegram JavaScript Style Guide() {
 
 *A mostly reasonable approach to JavaScript*
 
